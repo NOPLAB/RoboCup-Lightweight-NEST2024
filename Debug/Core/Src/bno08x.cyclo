@@ -1,0 +1,6 @@
+../Core/Src/bno08x.c:12:13:event_handler	4
+../Core/Src/bno08x.c:28:13:startReports	3
+../Core/Src/bno08x.c:71:13:sensor_handler	9
+../Core/Src/bno08x.c:158:6:sensor_handler_wrapper	9
+../Core/Src/bno08x.c:319:6:bno08x_open	2
+../Core/Src/bno08x.c:332:6:bno08x_update	2

@@ -1,0 +1,13 @@
+../Core/Src/bno08x_i2c.c:8:17:timeNowUs	1
+../Core/Src/bno08x_i2c.c:12:13:delay_us	2
+../Core/Src/bno08x_i2c.c:20:13:wait_int_delay_us	3
+../Core/Src/bno08x_i2c.c:29:12:shtp_i2c_hal_open	2
+../Core/Src/bno08x_i2c.c:69:13:shtp_i2c_hal_close	3
+../Core/Src/bno08x_i2c.c:93:12:shtp_i2c_hal_read	10
+../Core/Src/bno08x_i2c.c:163:12:shtp_i2c_hal_write	5
+../Core/Src/bno08x_i2c.c:198:17:shtp_i2c_getTimeUs	1
+../Core/Src/bno08x_i2c.c:204:12:shtp_i2c_hal_init	3
+../Core/Src/bno08x_i2c.c:239:6:IMPL_HAL_GPIO_EXTI_Callback	7
+../Core/Src/bno08x_i2c.c:275:6:IMPL_HAL_I2C_MasterRxCpltCallback	5
+../Core/Src/bno08x_i2c.c:310:6:IMPL_HAL_I2C_MasterTxCpltCallback	3
+../Core/Src/bno08x_i2c.c:326:6:IMPL_HAL_I2C_ErrorCallback	6

@@ -1,0 +1,14 @@
+../Core/Src/bno08x_i2c_f446.c:26:13:init_gpio	40	static
+../Core/Src/bno08x_i2c_f446.c:59:13:init_i2c	32	static
+../Core/Src/bno08x_i2c_f446.c:96:13:init_timer	16	static
+../Core/Src/bno08x_i2c_f446.c:113:13:init_hw	8	static
+../Core/Src/bno08x_i2c_f446.c:120:13:set_rst	16	static
+../Core/Src/bno08x_i2c_f446.c:126:13:set_boot	16	static
+../Core/Src/bno08x_i2c_f446.c:132:13:set_ints	16	static
+../Core/Src/bno08x_i2c_f446.c:154:13:set_i2c_ints	16	static
+../Core/Src/bno08x_i2c_f446.c:170:12:bno08x_init_i2c	8	static
+../Core/Src/bno08x_i2c_f446.c:187:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/bno08x_i2c_f446.c:195:6:HAL_I2C_MasterRxCpltCallback	16	static
+../Core/Src/bno08x_i2c_f446.c:203:6:HAL_I2C_MasterTxCpltCallback	16	static
+../Core/Src/bno08x_i2c_f446.c:211:6:HAL_I2C_ErrorCallback	16	static
+../Core/Src/bno08x_i2c_f446.c:229:6:EXTI0_IRQHandler	8	static
